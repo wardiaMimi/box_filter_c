@@ -1,3 +1,6 @@
+curl -O https://raw.githubusercontent.com/nothings/stb/master/stb_image.h
+wget https://raw.githubusercontent.com/nothings/stb/master/stb_image_write.h
+
 #define STB_IMAGE_IMPLEMENTATION
 #include "stb_image.h"
 
